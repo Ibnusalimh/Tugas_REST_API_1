@@ -1,7 +1,7 @@
 Untuk program .htaccess adalah:
 
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^data/([0-9]+)$ /restapitugas/data.php?id=$1 [L]
+RewriteEngine On <br />
+RewriteCond %{REQUEST_FILENAME} !-f <br />
+RewriteCond %{REQUEST_FILENAME} !-d <br />
+RewriteRule ^data/([0-9]+)$ /restapitugas/data.php?id=$1 [L] <br />
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
