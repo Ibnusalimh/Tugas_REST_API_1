@@ -1,7 +1,7 @@
 <h1>KELOMPOK 13</h1>
-<p>Ibnu Salim H  22091397043</p>
-<p>Dara Lembayung Kinasih  22091397050</p>
-<p>Putri Rizki Alifia	22091397073</p>
+<p>1.  Ibnu Salim H  22091397043</p>
+<p>2.  Dara Lembayung Kinasih  22091397050</p>
+<p>3.  Putri Rizki Alifia	22091397073</p>
 
 
 <h1>POST</h1>
