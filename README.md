@@ -1,7 +1,6 @@
-Untuk program .htaccess adalah:
+KELOMPOK 13
 
-RewriteEngine On <br />
-RewriteCond %{REQUEST_FILENAME} !-f <br />
-RewriteCond %{REQUEST_FILENAME} !-d <br />
-RewriteRule ^data/([0-9]+)$ /restapitugas/data.php?id=$1 [L] <br />
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
+1.  Ibnu Salim H	22091397043
+2.  Dara Lembayung Kinasih	22091397050
+3.  Putri Rizki Alifia	22091397073
+
